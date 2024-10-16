@@ -68,4 +68,8 @@ public class main {
     public int subtraction(int a,int b){
         return a-b;
     }
+
+    public int mltiplication(int a,int b){
+        return a*b;
+    }
 }

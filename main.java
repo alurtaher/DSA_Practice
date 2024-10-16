@@ -70,6 +70,6 @@ public class main {
     }
 
     public int mltiplication(int a,int b){
-        return a*b;
+        return (a*b);
     }
 }

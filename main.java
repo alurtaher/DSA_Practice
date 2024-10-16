@@ -64,4 +64,8 @@ public class main {
     public static int Sum(int a ,int b){
         return a+b;
     }
+
+    public int subtraction(int a,int b){
+        return a-b;
+    }
 }
